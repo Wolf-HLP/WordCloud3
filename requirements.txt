@@ -1,0 +1,8 @@
+Flask
+nltk
+requests
+beautifulsoup4
+numpy
+Pillow
+wordcloud
+collection
